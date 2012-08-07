@@ -8,4 +8,9 @@ public class AppTest {
     public void testName() {
         assertEquals("name", new App().getName());
     }
+    @Test
+    public void testAdd() {
+	assertEquals("name", new App().getName());
+    }
+
 }
