@@ -13,8 +13,6 @@ public class AppTest {
     @Test
     public void testAdd() {
         assertEquals("name", new App().getName());
-
-
     }
 
 }
