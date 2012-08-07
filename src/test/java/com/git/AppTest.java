@@ -1,7 +1,6 @@
 package com.git;
 
 import org.junit.Test;
-
 import static org.junit.Assert.assertEquals;
 
 public class AppTest {
@@ -9,10 +8,9 @@ public class AppTest {
     public void testName() {
         assertEquals("name", new App().getName());
     }
-
     @Test
     public void testAdd() {
-        assertEquals("nam", new App().getName());
+	assertEquals("name", new App().getName());
     }
 
 }
