@@ -12,6 +12,6 @@ public class AppTest {
 
     @Test
     public void should_failed() {
-        assertFalse(false);
+        assertFalse(true);
     }
 }
