@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 git.iml
 git.ipr
 git.iws
 target/
+=======
+target/
+git.iml
+git.ipr
+git.iws
+>>>>>>> fei/master
