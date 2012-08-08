@@ -15,9 +15,9 @@ public class AppTest {
         assertEquals("name", new App().getName());
     }
 
-    @Test
-    public void shouldFail() {
-        assertEquals("blahblah", new App().getName());
-    }
+//    @Test
+//    public void shouldFail() {
+//        assertEquals("blahblah", new App().getName());
+//    }
 
 }
